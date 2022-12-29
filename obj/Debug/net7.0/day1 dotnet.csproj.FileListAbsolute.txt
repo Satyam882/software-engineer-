@@ -1,0 +1,5 @@
+D:\New folder\day1 dotnet\obj\Debug\net7.0\day1 dotnet.csproj.AssemblyReference.cache
+D:\New folder\day1 dotnet\obj\Debug\net7.0\day1 dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\day1 dotnet\obj\Debug\net7.0\day1 dotnet.AssemblyInfoInputs.cache
+D:\New folder\day1 dotnet\obj\Debug\net7.0\day1 dotnet.AssemblyInfo.cs
+D:\New folder\day1 dotnet\obj\Debug\net7.0\day1 dotnet.csproj.CoreCompileInputs.cache
