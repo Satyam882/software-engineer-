@@ -1,0 +1,12 @@
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet\PMS\Employee\bin\Debug\net7.0\Employee.deps.json
+D:\dotnet\dotnet\PMS\Employee\bin\Debug\net7.0\Employee.dll
+D:\dotnet\dotnet\PMS\Employee\bin\Debug\net7.0\Employee.pdb
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.dll
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\refint\Employee.dll
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\Employee.pdb
+D:\dotnet\dotnet\PMS\Employee\obj\Debug\net7.0\ref\Employee.dll

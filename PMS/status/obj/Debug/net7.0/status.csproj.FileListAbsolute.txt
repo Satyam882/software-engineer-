@@ -1,0 +1,12 @@
+D:\dotnet\dotnet\PMS\status\bin\Debug\net7.0\status.deps.json
+D:\dotnet\dotnet\PMS\status\bin\Debug\net7.0\status.dll
+D:\dotnet\dotnet\PMS\status\bin\Debug\net7.0\status.pdb
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.csproj.AssemblyReference.cache
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.AssemblyInfoInputs.cache
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.AssemblyInfo.cs
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.dll
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\refint\status.dll
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\status.pdb
+D:\dotnet\dotnet\PMS\status\obj\Debug\net7.0\ref\status.dll
